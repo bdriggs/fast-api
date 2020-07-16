@@ -2,7 +2,7 @@
 name = "fast-api"
 version = "0.1.0"
 description = ""
-authors = ["Britton Riggs <briggs@multiweb.com>"]
+authors = ["Britton Riggs <user@noemail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
